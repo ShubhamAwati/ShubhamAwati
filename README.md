@@ -5,7 +5,7 @@
 - 🤔 Exploring new technologies.
 - 🎓 Studying Data Analytics.
 - 🌱 I’m currently learning more about Data industry.
--  ![image](https://user-images.githubusercontent.com/76651878/121659611-19c7fb00-cac0-11eb-8665-613c36d7375f.png)
+- ⚽ I am a sports person.
 
 
 <!---
