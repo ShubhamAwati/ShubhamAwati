@@ -2,10 +2,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 Exploring new technologies.
+- 🔭 Exploring new technologies.
 - 🎓 Studying Data Analytics.
+- 🤔 I’m looking for help with Job opportunities For Fresher.
 - 🌱 I’m currently learning more about Data industry.
-- ⚡ Fun fact: I love football and I am a Chai <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/chai.gif" width="20px"> person.
+- ⚡ Fun fact: I love football and I am a Chai <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/chai.gif" width="22px"> person😋.
 
 
 <!---
