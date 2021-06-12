@@ -5,7 +5,7 @@
 - 🤔 Exploring new technologies.
 - 🎓 Studying Data Analytics.
 - 🌱 I’m currently learning more about Data industry.
-- ⚡ Fun fact: I love football and I am a Chai <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/chai.gif" width="15px" person.
+- ⚡ Fun fact: I love football and I am a Chai <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/chai.gif" width="15px"> person.
 
 
 <!---
