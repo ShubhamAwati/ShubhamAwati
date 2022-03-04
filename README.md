@@ -12,7 +12,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
-  ![MySQL](https://cdn.liveagent.com/app/uploads/2020/11/MySQL-Logo=MySQL)
+  ![MySQL](https://cdn.liveagent.com/app/uploads/2020/11/MySQL-Logo.png=MySQL)
   ![MSSQL](http://yellowsys.fr/next/wp-content/uploads/2020/12/logo-microsoft-sql-server-595x3350-1-300x156=MsSQL)
   
   
