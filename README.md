@@ -8,12 +8,6 @@
 - 🌱 I’m currently learning more about Data industry.
 - ⚡ Fun fact: I am a football player and I am a Chai <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/chai.gif" width="22px"> person😋.
 
-## 🛠 &nbsp;Tech Stack
-
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
-  ![MySQL](https://cdn.liveagent.com/app/uploads/2020/11/MySQL-Logo.png=MySQL)
-  ![MSSQL](http://yellowsys.fr/next/wp-content/uploads/2020/12/logo-microsoft-sql-server-595x3350-1-300x156=MsSQL)
   
   
 <!---
